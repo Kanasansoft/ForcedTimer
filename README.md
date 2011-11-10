@@ -17,7 +17,7 @@ This experimental code lets the browser ignores the limit by force.
 
 #### run sample
 
-open src/sample.html in web browser(supported by WebSocket).
+open sample/sample.html in web browser(supported by WebSocket).
 
 #### usage
 
