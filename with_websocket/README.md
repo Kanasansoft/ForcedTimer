@@ -10,6 +10,7 @@ This experimental code lets the browser ignores the limit by force.
     % git clone https://github.com/Kanasansoft/ForcedTimer.git 
     ...
     % cd ForcedTimer
+    % cd with_websocket
     % npm install websocket
     ...
     % cd src
