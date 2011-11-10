@@ -1,0 +1,25 @@
+html, body{
+    margin:0;
+    padding:0;
+    height:100%;
+}
+#timeout_area{
+    width:49%;
+    height:99%;
+    float: left;
+}
+#interval_area{
+    width:49%;
+    height:99%;
+    float: right;
+}
+#timeout_button, #interval_button{
+    display:block;
+}
+#timeout_output, #interval_output{
+    width:80%;
+    height:80%;
+    font-size: 12px;
+    font-family: monospace;
+    display:block;
+}

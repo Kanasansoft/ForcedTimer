@@ -1,0 +1,1 @@
+importScripts("../src/timeworker.js");
